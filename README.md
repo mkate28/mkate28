@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет! 👋
+Меня зовут Екатерина. Я начинающий frontend-разработчик. 
 
 <!--
 **mkate28/mkate28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
